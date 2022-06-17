@@ -8,6 +8,7 @@ let obj = { name: 'narayan', address: 'maharastra', age: 25 };
 console.log(obj);
 
 // array
+
 let arr = ['html', 'css', 'bootstrap', 'javascript', 'jquery'];
 console.log(arr);
 
